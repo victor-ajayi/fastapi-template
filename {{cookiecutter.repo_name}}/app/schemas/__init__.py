@@ -1,1 +1,1 @@
-from .token import *
+from .auth import *
