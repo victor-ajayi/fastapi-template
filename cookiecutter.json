@@ -1,5 +1,4 @@
 {
   "repo_name": "new-project",
-  "database": "sqlite",
-  "postgres_url": ""
+  "database": ["SQLite", "PostgreSQL", "Other"]
 }
